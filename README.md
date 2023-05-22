@@ -1,12 +1,12 @@
 ## **Hangman Game**
 
-![hangman_4](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/5ed80d56-9b8d-4680-9195-25ee8dbbe169)
-![hangman_1](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/9eac3609-c38d-4b6b-8bd7-250e64f59314)
-![hangman_5](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/6f1abb75-c55e-40b8-9673-d373d11c1695)
+![hangman_4](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/7f5f6e29-9a33-4e29-9ade-188bf496464a)
+![hangman_1](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/8051452b-6dc7-4dce-9070-d0e3cc65ab2b)
+![hangman_5](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/e0452268-b8c9-4f48-b4ee-400b9bfe9d9a)
 
-![hangman_2](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/16625e1f-37ee-4b27-a8b3-18dcb73494d2)
-![hangman_6](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/d5d56ab9-b940-4f89-a9c0-cc2eafefc27d)
-![hangman_3](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/27c51d1b-caa9-42fa-8cee-7d9f431d0698)
+![hangman_2](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/5a913553-14b1-4ef2-80bc-fbba2b3bd6d8)
+![hangman_6](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/cfb27f67-bc99-4562-b28a-98b90aa2ecb2)
+![hangman_3](https://github.com/Bowineo/hangman_game_flutter/assets/46724595/b1214102-0d68-44cb-96c3-0ff059440da1)
 
 
 Flutter implementaion of the hangman game
